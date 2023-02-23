@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
 import Form from './Ejercicio2';
+import FeedbackForm from './Ejercicio3';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -9,6 +10,7 @@ root.render(
   <React.StrictMode>
     <App />
     <Form/>
+    <FeedbackForm/>
   </React.StrictMode>
 );
 
