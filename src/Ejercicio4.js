@@ -1,4 +1,3 @@
-import { useState } from "react";
 
 //ejercicio 4 eliminar estado innecesario 
 
