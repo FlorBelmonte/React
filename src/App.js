@@ -2,7 +2,8 @@
 // import Form from "./Ejercicio2";
 // import FeedbackForm from "./Ejercicio3";
 // import FeedbackForm2 from "./Ejercicio4";
-import UsandoPokeApi from "./EjercicioUseEffect";
+import LightSwitch from "./Desafio1";
+// import UsandoPokeApi from "./EjercicioUseEffect";
 
 
 function App() {
@@ -13,8 +14,9 @@ function App() {
       {/* <Gallery/>
       <Form/>
     <FeedbackForm/>
-    <FeedbackForm2/> */
-    <UsandoPokeApi/>}
+    <FeedbackForm2/>
+    <UsandoPokeApi/> */}
+    <LightSwitch/>
     </div>
   );
 }
